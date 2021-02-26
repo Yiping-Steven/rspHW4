@@ -1,6 +1,6 @@
 [submodule "edumip_description"]
 	path = edumip_description
-	url = ./edumip_description
+	url = https://github.com/Yiping-Steven/rsp_edumip_description.git
 [submodule "edumip_gazebo"]
 	path = edumip_gazebo
-	url = ./edumip_gazebo/
+	url = https://github.com/Yiping-Steven/rsp_edumip_gazebo.git
